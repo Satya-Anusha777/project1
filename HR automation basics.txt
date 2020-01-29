@@ -1,0 +1,156 @@
+Roles of HR :
+#10 – Employment, Recruitment, and Placement Manager
+9 – International Human Resources Associate
+8 – Executive Recruiter
+7 – Labor Relations Specialist
+#6 – Human Resources Consultant
+5 – Training and Development Manager
+4 – Compensation and Benefits Manager
+3 – Human Resources Manager
+2– Human Resources Director
+1 – Chief HR Officer/Vice President of Human Resources
+
+HR Automation - The Future of Human Resource Process Management
+
+Human resource management is an essential part of every company. 
+Whether it’s hiring new employees, training, or ensuring that local labor laws are not deviated.
+
+What Is HR Automation?
+        HR automation is the process of enhancing the efficiency of the HR department by freeing employees from tedious manual tasks, and allowing them to focus on complex tasks like decision making and strategizing. By automating standard and repetitive HR activities, organizations can reduce the cost and time they spend on manual HR planning and processing.
+
+Strategic Human Resource Management Using Automation:  identifies the long-term best uses of human talent as revealed by HR data.
+
+The Benefits of HR Process Automation:
+1.Improve productivity due to quick processing and data sharing
+2.Reduce employee turnover due to heightened employee engagement
+3.Slash down storage and printing costs associated with paper-based processing
+4.Stay free from compliance risk or policy violations
+5.Enhance organizational growth through efficient hiring at optimal operational cost
+6.Drop in data entry errors and misplaced/lost documents
+7.Make intelligent business decisions with insightful reports
+8.Collaborate with other stakeholders to hire, train, and retain skilled labor
+9.More time to analyze HR data to make intelligent business decision
+
+Why Not Having Automated HR Processes Can Be a Problem:
+1. Lost Efficiency
+2. Prone To Errors
+3. New Candidates Can Have A Bad Experience
+
+AUTOMATION TOOLS:
+1. Employee Onboarding
+Employee onboarding is one of the most manual HR processes. It includes collecting documents for verification, giving tool access to new hires, raising device requests, and more. But all of this can be done automatically, using the onboarding app.
+
+Employee onboarding app offers an easy checklist that can be referred by all users in the process. Using this, documents can be collected electronically, devices can be delivered without waiting around for IT staff to arrive, and tool access takes mere hours, not weeks.
+
+2.TIMESHEET: A timesheet is a spreadsheet for recording how much time an employee spent working on different tasks. Your employees enter the exact time when they start work for the day and also their out time – that's when they log out. Then the total time worked on individual tasks is calculated.
+2.Employee Timesheets:
+Tracking timesheets manually is inefficient.With an automated timesheet  you track and manage employee timesheets automatically, making the process faster and more accurate.
+
+3. Leave Requests
+Calculating and approving leaves manually is problematic, since HR staff must check the leave balance, get a manager approval, and record the leave for payroll calculation as well. With an automated leave Management process, all of this can be done automatically, without having leave requests stuck in someone’s inbox, lost in a sea of emails.
+
+4. Performance Management
+The performance management is a dynamic HR process that tracks, measures, and analyzes an employee’s performance by aligning it with business goals. An automated performance management software streamlines the process, keeps it bias-free.
+
+5. Exit Interviews
+Exit interviews play a significant role improving employee engagement. But paper-based, manual exit interview are tedious, time-consuming, and ineffective. By introducing human resource automation into the exit interview process, organizations can identify potential problems and retrieve actionable data to improve employee retention.
+
+8 Components you need to look for in an HR management software:
+
+1. Application tracking:
+An applicant tracking software (ATS) assists HR staff in optimizing their recruitment process and closing job openings faster.
+
+An ATS module automates all manual tasks involved in the recruitment process, optimizes it end-to-end, and gives HR managers enough time to spend on critical tasks like interviewing candidates. Applications like BrightMove, Kissflow HR Cloud, Workable, Clear Company, and Zoho Recruit extend enterprise-level functionalities to SMBs in a feature-rich platform to streamline their application tracking process and hire the best candidates.
+
+Must-have features:
+Seamless integration (e-mail, website, job board)
+Multi-channel accessibility (cloud, mobile, browser)
+Document management (cloud storage)
+Collaborative (share it with interview panel)
+Progress reports (status, feedback)
+
+2. Employee onboarding
+Organizations place all their trust on onboarding checklists. Although checklists are useful, their high propensity for errors and time-consuming nature make them less desirable.
+
+Must-have features:
+Self-service option for candidates
+Customizable workflow
+Multi-user access
+Electronic forms and e-signatures
+Compliance management
+
+3. Performance management
+Performance management systems play a vital role in aligning employee interest in the organization’s mission. Opting for a broader, continuous approach will list the process of goal setting, implementing, reviewing, evaluating, and revising under the umbrella called performance management.
+
+
+Must-have features:
+Customizable performance review templates
+Comprehensive assessment criteria
+Define review cycle (Time, goals-individual/team/department)
+360-degree feedback (self, supervisor, peers)
+Review results (collect, organize, display, and analyze)
+
+4. Employee training and development
+Training and development software offers HR admins and supervisors a feature-rich interface to create and manage employee training programs quickly.
+
+
+Must-have features:
+Manage it all (trainers, programs, trainees)
+Schedule sync (with Google/Outlook calendar)
+Real-time feedback (trainer, trainees)
+Review results (assessment, productivity)
+Revise strategy
+
+5. Payroll
+Payroll software minimizes human intervention and associated errors by automating the process and empowering your HR staff. 
+
+Payroll Management Software extends improved control over the payroll process, letting you configure changes without needing IT support. 
+
+Must-have features:
+Robust and secure
+Functionally rich interface
+Omni-channel compatibility (mobile, web, cloud)
+Integrated accounting (tax, salary, PF)
+Customizable rule-engine
+
+6. Employee management
+Employee management software helps businesses overcome inevitable challenges in employee management. These human resources software options allow HR managers to handle everyday tasks like forecasting workload, scheduling shifts, allotting schedules to employees, and managing workload to keep employees engaged and productive.
+
+
+Must-have features:
+Employee directory
+Monitor, track, and record tasks
+Access on the go
+Resource planning
+Reporting module
+
+7. Timesheet management
+Timesheet management software records, tracks, and monitors employee performance. A good timesheet software synchronizes the number of employees in an organization with their working hours to measure productivity and determine the labor hours involved in completing a specific task.
+
+Must-have features:
+Time clock
+Seamless approvals
+Interactive dashboard
+Real-time reports
+Easy integration with payroll and human resource software
+
+8. Leave management
+Leave management is connected to the organization’s bottom line. However, prioritizing leave requests and ensuring proper availability of the workforce cannot be done with partial visibility.
+
+Must-have features:
+Configurable fields (leave type, policy, holiday list)
+Leave balance auto-update
+Customizable leave request approval workflow
+Carryovers and overtime
+Transparency
+Kissflow HR Cloud Features
+
+
+Popular HR management software for small businesses:
+
+1. BambooHR
+2. Kissflow HR Cloud
+3. Zenefits
+4. CakeHR
+5. Gusto
+6. Zoho People
