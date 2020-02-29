@@ -1,0 +1,10 @@
+[,mnb,mnb,Chess,Badminton,Bowling,56,sdg@gmail.com,9087654321,Bowling,],[,mnb,mnb,Chess,Badminton,Bowling,56,sdg@gmail.com,9087654321,Bowling,],[,anu,123,Chess,Painting,Bowling,14,satya@gmail.com,1236985740,],[,ratna,anusha,Painting,Chess,BAdminton,35,ratna@gmial.com,8977730457,],[,usha,usha123,Chess,Bowling,BAsketBall,19,usha@gmail.com,7896541230,],[,mamatha,mamatha123,Painting,,Chess,19,mamatha@gmail.com,1236547890,],[,pasha,abcd123,Chess,,,40,pasha@gmail.com,1234567890,],[nana,nana123,Chess,,,23,sthy@gmail.com,1234567880,],[pravallika,prav123,Chess,,,18,anusha1234@gmail.com,1234567890,],[anusha,anu123,Chess,,,18,anusha15216@gmail.com,2345678901,],[pravallika,prav123,Painting,Chess,,18,asd@gmail.com,0987654321,],[abc,mnb1,Chess,,,23,asd@gmail.com,1236547890,],[
+asd,
+asd12,
+Chess,
+,
+,
+23,
+gmail.com,
+1236547890,
+]
